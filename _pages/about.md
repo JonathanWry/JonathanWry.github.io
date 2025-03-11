@@ -1,4 +1,11 @@
-## About Me
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I am an undergraduate student majoring in Computer Science at [Emory University](https://www.emory.edu/), specializing in Artificial Intelligence and Data Science. 
 
