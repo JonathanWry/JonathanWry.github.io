@@ -34,5 +34,5 @@ I thrive in team collaborations and have led projects in **data science competit
 
 ## Contact
 
-[Email](mailto:your_email@emory.edu) / [GitHub](https://github.com/your_github) / [LinkedIn](https://www.linkedin.com/in/your_linkedin)
+[Email](mailto:rwan388@emory.edu) / [GitHub](https://github.com/JonathanWry) / [LinkedIn](https://www.linkedin.com/in/jonathan-wang-53976a287)
 
