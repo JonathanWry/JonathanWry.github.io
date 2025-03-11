@@ -2,7 +2,7 @@
 title: "Enhanced Atrial Fibrillation Prediction in ESUS Patients with Pre-training and Transfer Learning"
 collection: publications
 category: conference
-permalink: N/A
+permalink: 2009-10-01-paper-title-number-1.md
 excerpt: "Submitted to AIME 2025: This paper explores pre-training and transfer learning approaches to enhance atrial fibrillation (AF) prediction in ESUS patients."
 date: 2025-03-11
 venue: "AIME 2025 (Under Review)"
