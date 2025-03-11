@@ -1,7 +1,15 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Transformer Model Reimplementation"
+excerpt: "Built a Transformer model from scratch to explore its potential in NLP tasks.<br/><img src='/images/transformer.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+### Project Overview
+This project involves reimplementing a **Transformer model** from scratch to explore its applications in **natural language processing (NLP)** tasks.
+
+### Key Contributions:
+- Implemented a **Transformer model** and applied it to **text classification** and **natural language generation**.
+- Compared its performance with **mainstream libraries**, gaining insights into **scalability and optimization**.
+- Deepened understanding of **attention mechanisms** and **neural network training**.
+
+🔗 **GitHub Repository**: [Transformer Implementation](https://github.com/JonathanWry/transformerImpl)
