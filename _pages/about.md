@@ -1,12 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 ## About Me
 
 I am an undergraduate student majoring in **Computer Science** at [Emory University](https://www.emory.edu/), with a strong focus on **Artificial Intelligence** and **Data Science**. I have a solid foundation in mathematics and programming, proficient in **Python** and **PyTorch**, and well-versed in **machine learning** and **deep learning** algorithms. Academically, I maintain an outstanding GPA of **3.97/4.0** and have been named to the **Dean’s List** for three consecutive times.
