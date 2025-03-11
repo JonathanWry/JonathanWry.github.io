@@ -4,7 +4,7 @@ I am an undergraduate student majoring in Computer Science at [Emory University]
 
 Currently, I am an Undergraduate Research Assistant at the Emory Graph Mining (EGM) Group, where I work on HyperGraph Neural Networks and large language models for medical AI applications.  
 
-You can find my CV here: [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).  
+You can find my CV here: [My_Resume](../assets/JonathanWang_AI.pdf).  
 
 [Email](mailto:rwan388@emory.edu) / [GitHub](https://github.com/JonathanWry) / [LinkedIn](https://www.linkedin.com/in/jonathan-wang-53976a287)
 
