@@ -4,7 +4,7 @@ collection: publications
 category: conference
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Submitted to AIME 2025: This paper explores pre-training and transfer learning approaches to enhance atrial fibrillation (AF) prediction in ESUS patients.'
-# date: 2009-10-01
+date: 2009-10-01
 venue: 'AIME 2025 (Under Review)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
