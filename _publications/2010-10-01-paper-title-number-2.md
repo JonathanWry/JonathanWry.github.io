@@ -1,5 +1,5 @@
 ---
-title: 'MedAssist: LLM-Empowered Medical Assistant for Assisting the Scrutinization and Comprehension of Electronic Health Records'
+title: "MedAssist: LLM-Empowered Medical Assistant"
 collection: publications
 category: conference
 permalink: /publication/2010-10-01-paper-title-number-2
