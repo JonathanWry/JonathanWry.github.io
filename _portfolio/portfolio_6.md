@@ -1,6 +1,6 @@
 ---
 title: "vitaLITy 2"
-excerpt: "Enhanced the frontend of vitaLITy, a platform for literature discovery with OpenAI chatbot integration.<br/><img src='/images/vitality.png'>"
+excerpt: "Enhanced the frontend of vitaLITy, a platform for literature discovery with OpenAI chatbot integration."
 collection: portfolio
 ---
 
