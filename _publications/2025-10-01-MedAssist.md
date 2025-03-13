@@ -7,7 +7,7 @@ excerpt: 'Accepted to TheWebConf 2025 (Demo Track): MedAssist is an LLM-powered 
 # date: 2010-10-01
 venue: 'TheWebConf 2025 (Accepted, Demo Track)'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://JonathanWry.github.io/files/Enhanced_Atrial_Fibrillation_Prediction.pdf'
+paperurl: 'http://JonathanWry.github.io/files/MedAssist_WWW_Demo.pdf'
 citation: 'Ran Xu, Wenqi Shi, Jonathan Wang, Jasmine Zhou, and Carl Yang. (2025). &quot; MedAssist: LLM-Empowered Medical Assistant for Assisting the Scrutinization and Comprehension of Electronic Health Records.&quot; <i>Accepted to TheWebConf 2025, Demo Track</i>.'
 ---
 
