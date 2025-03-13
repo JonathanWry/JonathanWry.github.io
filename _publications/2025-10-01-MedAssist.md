@@ -3,7 +3,7 @@ title: "MedAssist: LLM-Empowered Medical Assistant for Assisting the Scrutinizat
 collection: publications
 category: conferences
 permalink: /publication/2025-10-01-MedAssist
-excerpt: 'Accepted to TheWebConf 2025 (Demo Track): MedAssist is an LLM-powered assistant designed to enhance electronic health record (EHR) comprehension and clinical decision-making.'
+excerpt: This paper proposes MedAssist, an LLM-powered assistant designed to enhance electronic health record (EHR) comprehension and clinical decision-making.'
 # date: 2010-10-01
 venue: 'TheWebConf 2025 (Accepted, Demo Track)'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
