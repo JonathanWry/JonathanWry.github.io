@@ -1,6 +1,6 @@
 ---
 title: "Coding Online Judge (OJ) Platform"
-excerpt: "Developed an online coding judgment platform with SpringBoot and Docker for isolated code execution.<br/><img src='/images/oj_system.png'>"
+excerpt: "Developed an online coding judgment platform with SpringBoot and Docker for isolated code execution."
 collection: portfolio
 ---
 
