@@ -8,7 +8,7 @@ date: 2025-03-11
 venue: 'AIME 2025 (Under Review)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Yuhua Wu, Yuzhang Xie, Ruiyu Wang, Fadi Nahab, Xiao Hu, and Carl Yang. (2025). 'Enhanced Atrial Fibrillation Prediction in ESUS # Patients with Pre-training and Transfer Learning.' <i>Submitted to AIME 2025</i>.'
+citation: citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 Predicting atrial fibrillation (AF) in embolic stroke of an undetermined source (ESUS) is challenging due to data scarcity and high-dimensional features. We propose a pre-training and transfer learning approach using hypergraph-based patient embeddings, improving accuracy and robustness over traditional models for AF prediction.
