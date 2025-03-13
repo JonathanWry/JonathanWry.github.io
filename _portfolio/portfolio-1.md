@@ -1,6 +1,6 @@
 ---
 title: "Transformer Model Reimplementation"
-excerpt: "Built a Transformer model from scratch to explore its potential in NLP tasks.<br/><img src='/images/transformer.png'>"
+excerpt: "Built a Transformer model from scratch to explore its potential in NLP tasks."
 collection: portfolio
 ---
 
