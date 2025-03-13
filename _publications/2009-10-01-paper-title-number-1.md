@@ -7,7 +7,7 @@ excerpt: 'Submitted to AIME 2025: This paper explores pre-training and transfer 
 date: 2009-10-01
 venue: 'AIME 2025 (Under Review)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/Enhanced_Atrial_Fibrillation_Prediction.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
