@@ -1,6 +1,6 @@
 ---
 title: "Open-Unmix Reimplementation"
-excerpt: "Reimplemented the Open-Unmix neural network model for audio source separation, focusing on AI-driven music analysis.<br/><img src='/images/openunmix.png'>"
+excerpt: "Reimplemented the Open-Unmix neural network model for audio source separation, focusing on AI-driven music analysis."
 collection: portfolio
 ---
 
