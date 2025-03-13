@@ -6,7 +6,7 @@ permalink: /publication/2025-03-01-EnhancedAtrialFibrillationPrediction
 excerpt: 'This paper explores pre-training and transfer learning approaches to enhance atrial fibrillation (AF) prediction in ESUS patients.'
 # date: 2009-10-01
 venue: 'AIME 2025 (Under Review)'
-paperurl: 'http://JonathanWry.github.io/files/EnhancedAtrialFibrillationPrediction.pdf'
+paperurl: 'http://JonathanWry.github.io/files/Enhanced_Atrial_Fibrillation_Prediction.pdf'
 citation: 'Yuhua Wu, Yuzhang Xie, Ruiyu Wang, Fadi Nahab, Xiao Hu, and Carl Yang. (2025). &quot;Enhanced Atrial Fibrillation Prediction in ESUS # Patients with Pre-training and Transfer Learning.&quot; <i>Submitted to AIME 2025</i>.'
 ---
 
