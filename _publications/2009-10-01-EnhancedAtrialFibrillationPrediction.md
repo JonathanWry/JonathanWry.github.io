@@ -1,5 +1,5 @@
 ---
-title: "Enhanced Atrial Fibrillation Prediction in ESUS Patients with Pre-training and Transfer Learning"
+title: "Paper Title Number 1"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-EnhancedAtrialFibrillationPrediction
