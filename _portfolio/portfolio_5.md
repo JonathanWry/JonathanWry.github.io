@@ -1,6 +1,6 @@
 ---
 title: "EagleRating System"
-excerpt: "Developed a facility rating platform for Emory students with SpringBoot, React, and AWS EC2.<br/><img src='/images/eagle_rating.png'>"
+excerpt: "Developed a facility rating platform for Emory students with SpringBoot, React, and AWS EC2."
 collection: portfolio
 ---
 
