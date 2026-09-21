@@ -1,0 +1,136 @@
+cv:
+  name: Ruiyu Wang
+  label: M.S. student at UCLA
+  email: rwan388@g.ucla.edu
+  location: Los Angeles, California
+  image: ""
+  summary: M.S. student in Computer Science with experience in embodied intelligence, reinforcement learning, search agents, and clinically grounded language models.
+
+  social_networks:
+    - network: GitHub
+      username: JonathanWry
+    - network: LinkedIn
+      username: ruiyu-wang-53976a287
+
+  sections:
+    Education:
+      - institution: University of California, Los Angeles
+        location: Los Angeles, California
+        area: Computer Science
+        studyType: M.S.
+        start_date: 2026
+        end_date: present
+        highlights:
+          - "Coursework in progress: Robot Kinematics and Linear Dynamic Systems."
+
+      - institution: Emory University
+        location: Atlanta, Georgia
+        area: Computer Science; Applied Mathematics and Statistics
+        studyType: B.S.; B.S.
+        start_date: 2022
+        end_date: 2026
+        score: "GPA: 3.93 / 4.00"
+
+    Research Experience:
+      - company: MagicLab
+        position: Summer Research Intern
+        start_date: 2026
+        end_date: 2026
+        highlights:
+          - Surveyed memory mechanisms for vision-language-action models and long-horizon manipulation.
+          - Ran model training, evaluation, and testing focused on memory-related behavior and failure modes.
+
+      - company: Emory Graph Mining Lab
+        position: Undergraduate Research Assistant
+        start_date: 2024-04
+        end_date: 2026-05
+        summary: "Advisor: Prof. Carl Yang"
+        highlights:
+          - Led work on knowledge-graph-guided clinical prediction and BioMedJImpact.
+          - Contributed to AceSearcher, MedAssist, and hypergraph pre-training for clinical risk prediction.
+
+      - company: Emory Department of Mathematics
+        position: Undergraduate Research Assistant
+        start_date: 2025-09
+        end_date: 2026
+        summary: "Supervisor: Prof. Yuanzhe Xi"
+        highlights:
+          - Developed online learning experiments for adaptive setup and solve control in HYPRE's BoomerAMG solver.
+
+    Industry Experience:
+      - company: Tongcheng Holdings Limited
+        position: AI Engineer Intern
+        start_date: 2024-06
+        end_date: 2024-08
+        highlights:
+          - Improved a speaker-diarization pipeline and evaluated an LLM travel assistant for factuality and constraint adherence.
+
+      - company: JD.com
+        position: AI Intern
+        start_date: 2024-05
+        end_date: 2024-06
+        highlights:
+          - Fine-tuned LoRA models for brand-aligned image generation and documented generative AI workflows.
+
+    Selected Publications:
+      - title: Knowledge Graph Augmented Large Language Models for Disease Prediction
+        authors:
+          - Ruiyu Wang
+          - Tuan Vinh
+          - Ran Xu
+          - Yuyin Zhou
+          - Jiaying Lu
+          - Francisco Pasquel
+          - Mohammed K. Ali
+          - Carl Yang
+        publisher: AMIA 2026 Informatics Summit
+        releaseDate: 2026
+        url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13274279/
+
+      - title: "AceSearcher: Bootstrapping Reasoning and Search for LLMs via Reinforced Self-Play"
+        authors:
+          - Ran Xu
+          - Yuchen Zhuang
+          - Zihan Dong
+          - Ruiyu Wang
+          - Yue Yu
+          - Joyce C. Ho
+          - Linjun Zhang
+          - Haoyu Wang
+          - Wenqi Shi
+          - Carl Yang
+        publisher: NeurIPS 2025, Spotlight
+        releaseDate: 2025
+        url: https://openreview.net/forum?id=jSgCM0uZn3
+
+      - title: "MedAssist: LLM-Empowered Medical Assistant"
+        authors:
+          - Ran Xu
+          - Wenqi Shi
+          - Jonathan Wang
+          - Jasmine Zhou
+          - Carl Yang
+        publisher: ACM Web Conference 2025, Demo Track
+        releaseDate: 2025
+        url: https://doi.org/10.1145/3701716.3715186
+
+    Skills:
+      - name: Programming and systems
+        icon: fa-solid fa-code
+        keywords: "Python, C, Java, SQL, Git, Docker, Linux"
+      - name: Machine learning
+        icon: fa-solid fa-brain
+        keywords: "PyTorch, Transformers, GNNs, hypergraphs, reinforcement learning, data analysis"
+      - name: Language models and data
+        icon: fa-solid fa-database
+        keywords: "RAG, LLM fine-tuning, LLM agents, knowledge graphs, MySQL, PostgreSQL, MongoDB, Redis"
+
+    Honors:
+      - title: Honorable Mention, Mathematical Contest in Modeling
+        date: 2025
+      - title: Best Team and Insight Award, Emory DataFest
+        date: 2025
+      - title: Vice President, Emory University Mathematics Association
+        date: 2025-2026
+      - title: Dean's List, Emory College of Arts and Sciences
+        date: 2023-2024
