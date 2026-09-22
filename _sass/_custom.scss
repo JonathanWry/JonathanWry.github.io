@@ -660,29 +660,6 @@ a {
   width: 100%;
 }
 
-.cv-page-previews {
-  display: grid;
-  gap: 1.25rem;
-  margin: 0 auto;
-  max-width: 820px;
-}
-
-.cv-page-previews a {
-  border: 1px solid var(--rw-border);
-  display: block;
-}
-
-.cv-page-previews a:focus-visible {
-  outline: 2px solid var(--global-theme-color);
-  outline-offset: 3px;
-}
-
-.cv-page-previews img {
-  display: block;
-  height: auto;
-  width: 100%;
-}
-
 .cv-pdf-frame--home {
   height: min(78vh, 820px);
   min-height: 720px;

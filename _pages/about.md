@@ -66,13 +66,10 @@ latest_posts:
       </a>
     </div>
   </div>
-  <div class="cv-page-previews">
-    <a href="{{ '/assets/pdf/ruiyu-wang-cv.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Open the full CV PDF">
-      <img src="{{ '/assets/img/cv-page-1.png' | relative_url }}" alt="Curriculum vitae, page 1 of 2" loading="lazy" width="1275" height="1650">
-    </a>
-    <a href="{{ '/assets/pdf/ruiyu-wang-cv.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Open the full CV PDF">
-      <img src="{{ '/assets/img/cv-page-2.png' | relative_url }}" alt="Curriculum vitae, page 2 of 2" loading="lazy" width="1275" height="1650">
-    </a>
+  <div class="cv-pdf-frame cv-pdf-frame--home">
+    <object data="{{ '/assets/pdf/ruiyu-wang-cv.pdf' | relative_url }}#view=FitH" type="application/pdf" aria-label="Ruiyu Wang curriculum vitae">
+      <p>Your browser cannot display the PDF inline. <a href="{{ '/assets/pdf/ruiyu-wang-cv.pdf' | relative_url }}">Open the CV</a>.</p>
+    </object>
   </div>
 </section>
 
