@@ -1,0 +1,1 @@
+document.querySelectorAll("#navbar a[href*='#']").forEach(e=>{e.addEventListener("click",()=>{const e=document.querySelector(".navbar-toggler-main");"true"===e?.getAttribute("aria-expanded")&&e.click()})});

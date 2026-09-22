@@ -30,6 +30,10 @@ a:focus {
   -webkit-font-smoothing: antialiased !important;
 }
 
+.fa-arrow-down:before {
+  font-size: 14px;
+}
+
 
 #logout {
   font-family: "Proxima Nova", sans-serif;
