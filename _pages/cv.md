@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: CV
-nav: true
+nav: false
 nav_order: 3
 description: A concise two-page record of my education, experience, publications, and skills.
 ---
