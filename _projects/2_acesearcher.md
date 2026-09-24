@@ -15,13 +15,13 @@ tags: [Reinforced self-play, RAG, Multi-hop reasoning]
 
 {% include figure.liquid loading="eager" path="assets/img/acesearcher-overview.png" title="AceSearcher supervised and reinforcement fine-tuning framework" class="img-fluid rounded z-depth-1" %}
 
-AceSearcher trains one language model to alternate between decomposing complex questions and solving them with retrieved evidence. I contributed experiments and standardized evaluation for the self-play search framework.
+AceSearcher trains one language model to alternate between a **Decomposer**, which breaks down multi-hop questions, and a **Solver**, which integrates retrieved evidence. I helped develop and evaluate this reinforced self-play RAG framework.
 
 ### What I worked on
 
+- Co-developed the self-play workflow connecting query decomposition, retrieval, and evidence-grounded solving.
 - Ran experiments across reasoning-intensive question-answering benchmarks.
-- Implemented and prompted baseline language models for consistent comparison.
-- Helped standardize evaluation across retrieval, decomposition, and final-answer quality.
+- Implemented standardized prompts for baseline language models and helped align evaluation across methods.
 
 The paper received a **Spotlight presentation at NeurIPS 2025**.
 

@@ -618,6 +618,42 @@ a {
   margin-top: 2rem;
 }
 
+.project-results {
+  border-bottom: 1px solid var(--rw-border);
+  border-top: 1px solid var(--rw-border);
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 1.4rem 0;
+  padding: 1.1rem 0;
+}
+
+.project-result {
+  min-width: 0;
+  padding: 0 1.2rem;
+}
+
+.project-result + .project-result {
+  border-left: 1px solid var(--rw-border);
+}
+
+.project-result strong,
+.project-result span {
+  display: block;
+}
+
+.project-result strong {
+  color: var(--rw-ink);
+  font-size: 1.45rem;
+  line-height: 1.2;
+}
+
+.project-result span {
+  color: var(--global-text-color-light);
+  font-size: 0.82rem;
+  line-height: 1.45;
+  margin-top: 0.35rem;
+}
+
 .publications ol.bibliography li {
   border-bottom: 1px solid var(--rw-border);
   margin-bottom: 0;
@@ -686,6 +722,20 @@ a {
   .education-grid {
     gap: 1.4rem;
     grid-template-columns: 1fr;
+  }
+
+  .project-results {
+    grid-template-columns: 1fr;
+    padding: 0;
+  }
+
+  .project-result {
+    padding: 1rem 0;
+  }
+
+  .project-result + .project-result {
+    border-left: 0;
+    border-top: 1px solid var(--rw-border);
   }
 
   .cv-pdf-frame {

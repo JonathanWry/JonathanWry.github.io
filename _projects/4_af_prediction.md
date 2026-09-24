@@ -15,12 +15,14 @@ tags: [Hypergraphs, Transfer learning, Risk prediction]
 
 {% include figure.liquid loading="eager" path="assets/img/af-framework.jpg" title="Hypergraph pre-training and transfer learning pipeline" class="img-fluid rounded z-depth-1" %}
 
-This project learns compact patient representations from a larger stroke cohort and transfers them to a smaller ESUS cohort for atrial fibrillation risk prediction.
+This project learns compact patient representations from a 7,780-visit stroke cohort and transfers them to an ESUS cohort of 510 patients for atrial fibrillation risk prediction.
 
 ### What I worked on
 
 - Developed hypergraph-transformer pre-training pipelines for transferable patient visit embeddings.
 - Integrated 32-dimensional embeddings with baseline clinical features in the downstream cohort.
-- Evaluated lightweight classifiers under limited-data conditions and compared them with from-scratch baselines.
+- Improved downstream AUROC by 5-15% over from-scratch baselines under limited-data conditions.
+
+The work was accepted to the **AMIA 2026 Joint Summits on Translational Science**.
 
 [ArXiv](https://arxiv.org/abs/2603.13297) · [Code](https://github.com/JonathanWry/Enhanced-Atrial-Fibrillation-Prediction-in-ESUS-Patients-with-Pre-training-and-Transfer-Learning)

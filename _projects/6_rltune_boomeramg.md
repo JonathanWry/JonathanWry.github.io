@@ -18,8 +18,8 @@ RLTune-BoomerAMG treats solver configuration as online learning over mixed conti
 ### What I worked on
 
 - Formulated repeated BoomerAMG configuration as an adaptive decision problem over problem streams.
-- Implemented policy-based setup and solve-control experiments in HYPRE.
-- Compared contextual bandits and episodic reinforcement learning with fixed and physics-informed baselines.
+- Implemented policy-based tuners that adapt mixed continuous and categorical configurations across solves without Gaussian-process pre-tuning.
+- Compared contextual bandits and episodic reinforcement learning with GPTune and GPTuneBand baselines.
 - Built reproducible experiment bundles for runtime, convergence, and stability analysis.
 
 The code is still under active development and is not linked publicly yet.

@@ -20,8 +20,9 @@ I mapped clinical codes to PrimeKG, mined disease-specific evidence paths, and u
 ### What I worked on
 
 - Built the data pipeline connecting longitudinal patient visits with disease-centered subgraphs from PrimeKG.
-- Designed structured reasoning traces for supervised fine-tuning and filtered low-quality evidence before training.
-- Evaluated predictive performance, data efficiency, transfer across clinical cohorts, and the interpretability of generated reasoning.
+- Designed structured reasoning traces for supervised fine-tuning of LLaMA-8B and filtered low-quality evidence before training.
+- Trained and evaluated the pipeline on 1,000 MIMIC-III visits, reaching AUC and AUPR comparable to traditional machine-learning baselines.
+- Maintained competitive performance with only 400 patient visits, demonstrating data efficiency under limited supervision.
 
 The work was accepted to the **AMIA 2026 Informatics Summit**.
 
